@@ -1,19 +1,23 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: The Abbeywood Irregulars
+name: The Abbeywood Irregulars
 email: contact@abbeywoodirregulars.uk
+
 description: > # this means to ignore newlines until "baseurl:"
-  The Abbeywood Irregulars are a mixed bag of wargamers who meet monthly for larger games (typically up to 16 players) and to put on games at wargames shows. 
+  The Abbeywood Irregulars are a mixed bag of wargamers who meet monthly for larger games (typically up to 16 players) and to put on games at wargames shows.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://abbeywoodirregulars.uk" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-# github_username:  jekyll
+
+header: yes
+header_sm: images/banner-small.jpg
+header_med: images/banner-med.jpg
+header_large: images/banner-large.jpg
+header_xl: images/banner-xl.jpg
+
+
+# Exclude our ruby stuff
+exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, .last_optimized]
+
 
 # Build settings
-markdown: kramdown
+markdown: rdiscount
