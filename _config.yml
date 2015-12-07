@@ -9,10 +9,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://abbeywoodirregulars.uk" # the base hostname & protocol for your site
 
 header: yes
-header_sm: images/banner-small.jpg
-header_med: images/banner-med.jpg
-header_large: images/banner-large.jpg
-header_xl: images/banner-xl.jpg
+header_sm: images/awi-banner-small.jpg
+header_med: images/awi-banner-med.jpg
+header_large: images/awi-banner-large.jpg
+header_xl: images/awi-banner-xl.jpg
 
 
 # Exclude our ruby stuff
