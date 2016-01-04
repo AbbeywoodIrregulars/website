@@ -11,7 +11,7 @@
 // Styling for mobile devices
 @media screen and (max-width: 768px) {
   .wrap {
-    margin-bottom: -$footer-height * 2.8; 
+    margin-bottom: -$footer-height * 2.8;
   }
 }
 
@@ -72,7 +72,7 @@
 }
 
 .site-footer, .wrap:after {
-  height: $footer-height; 
+  height: $footer-height;
 }
 .site-footer {
   background: $footer-color;
@@ -83,15 +83,16 @@
   bottom:0;
   margin-top: -$footer-height;
   z-index:9999;
-  background-color:rgba(0,0,0,0.90);
+//  background-color:rgba(0,0,0,0.90);
+  background-color:rgba(199,65,46,0.90);
 }
 
 // Styling for mobile devices
 @media screen and (max-width: 768px) {
   .site-footer, .wrap:after {
-    height: $footer-height * 2.8; 
+    height: $footer-height * 2.8;
   }
-  
+
   .recent-posts ul li {
     margin-bottom: 2em;
   }
