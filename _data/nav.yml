@@ -7,6 +7,10 @@
 - title: "calendar"
   href: "/calendar/"
 
+- title: "Photo Gallery"
+  external: "https://www.flickr.com/photos/abbeywoodirregulars/"
+
+
 #- title: "external"
 #  external: "http://www.jekyllrb.com"
 
