@@ -1,0 +1,39 @@
+DBA v3 “Small Scale” Base Sizes
+
+Troop Type	        DBA List Code	Base depth in mm	Figures/models per base
+Elephants	        El	            40	                1 model
+Knights	            3Kn	            30 (40*)	        3
+	                4Kn	            30	                4
+	                6Kn	            60	                6
+	            	Hch	            40	                1 model
+Cavalry	            Cv	            30	                3
+	                6Cv	            60	                6
+	                Lch	            40	                1 model
+Light Horse	        LH	            30	                2
+	                Lcm	            30	                2
+Scythed Chariots	Sch	            40	                1 model
+Camelry	            Cm	            30	                3
+Mounted Infantry	Mtd-X	        40-60	            3 – 4 + mount
+Spears All "Solid"	Sp	            15-20	            4
+	                8Sp	            30	                8
+Pikes "Solid"	    4Pk	            15-20	            4
+Pikes "Fast"	    3Pk	            20	                3
+Blades "Solid"	    4Bd	            15-20	            4**
+Blades "Fast"	    3Bd	            20	                3
+Blades "Fast"	    6Bd	            40	                6
+Auxilia "Solid"	    4Ax	            20	                4
+Auxilia "Fast"	    3Ax	            20	                3
+Bows "Solid"	    4Bw, Cb, Lb	    20	                4
+Bows "Fast"	        3Bw, Cb, Lb	    20	                3
+Bows "Solid"	    8Bw, Cb, Lb	    40	                8
+Psiloi All "Fast"	Ps	            20	                2
+Warband "Solid"	    4Wb	            15-20	            4
+Warband "Fast"	    3Wb	            20	                3
+Hordes "Solid"	    7Hd	            30-40	            7
+Hordes "Fast"	    5Hd	            30-40	            5
+Artillery	        Art	            40	                1 model
+War Wagons	        Wwg	            40 or 80	        1 model
+General	            Cp, Lit or Cwg	40 or 80	        5 – 6
+
+* Macedonian companions and some Skythian nobles can be on a deeper base with the centre figure further forward representing an historical wedge formation
+** Knights thst have dismounted with blades can be based with 3 figures as when mounted.
