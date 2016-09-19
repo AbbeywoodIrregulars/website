@@ -7,7 +7,7 @@ date: "2016-09-02"
 ![](https://lh5.googleusercontent.com/proxy/qA2ZmV_DlOWOWugX5tKe7S8PEXs5bMuvBAB6UAfHNT96nhYRGLoHuNZYX7XsOM-2ygcPlOCZa38UY6Uv-qTlv26lA6oeNOaBnt2DT0-yKyhO2b_MMuKGCLtAtQ=s0-d)  
 Photo courtesy of [David Manley](https://dtbsam.blogspot.co.uk/)
 
-This Saturday sees our next big game. Stephen Etheridge is running a game based on the Turbot Wars (sometime know as the Cod Wars also) of the 1990s. Here is Stephen's description of the game:
+This Saturday sees our next big game. Stephen Etheridge is running a game based on the Cod Wars of the 1970s. Here is Stephen's description of the game:
 
 > So September's "happening" will be a 20th century asymmetric naval engagement over three small sea areas.  As befits such, one side will be heavily outnumbered - but I promise they will have the most fun and have every chance of meeting their victory conditions while their "lumbering" opponent will have everything to lose!
 >
@@ -17,4 +17,4 @@ This Saturday sees our next big game. Stephen Etheridge is running a game based 
 >
 > If all goes to plan, we will be using ship models/counters that are currently being "3d printed" specifically for the game - yes I know it's a shock to go to such lengths for an AWI game, but I did study CSG at Uni some 34 years ago and this is the first time I have ever used it in anger, or apathy!
 
-For more about this unusual naval conflict, see [this post](https://dtbsam.blogspot.co.uk/2013/02/something-fishy.html) from David Manley and [this article](https://en.wikipedia.org/wiki/Turbot_War) on Wikipedia.
+For more about this unusual naval conflict, see [this post](https://dtbsam.blogspot.co.uk/2013/02/something-fishy.html) from David Manley and [this article](https://en.wikipedia.org/wiki/Cod_Wars) on Wikipedia.
