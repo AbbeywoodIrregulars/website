@@ -20,7 +20,7 @@ The Irregulars meet at the Bennett Centre, St. John's Church Hall, Vicarage Stre
 
 Currently the hall is undergoing renovation which limits easy access so please discuss any potential issues with us before arrival.
 
-Pete Connew (contact@abbeywoodirregulars.uk) is acting as events secretary and point of contact.
+Pete Connew [(contact@abbeywoodirregulars.uk)](mailto:contact@abbeywoodirregulars.uk) is acting as events secretary and point of contact.
 
 **The Abbeywood Irregulars would like to thank the following for their support and encouragement:**
 
