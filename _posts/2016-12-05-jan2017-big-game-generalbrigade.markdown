@@ -6,7 +6,7 @@ date: "2016-12-05"
 
 Details from Pete of January's main game:
 
-> Just to confirm the January game I'm running will be 15mm (well 18mm actually) Napoleonic - General Brigade de luxe rules (ie Dave's 3rd edition not that he ever calls it that!). Vittoria 1813, Assault on the  hill of  Arinez.
+> Just to confirm the January game I'm running will be 15mm (well 18mm actually) Napoleonic - General Brigade de luxe rules (ie Dave's 3rd edition not that he ever calls it that!). Vittoria 1813, Assault on the hill of Arinez.
 >
 > The more the merrier. but please could I have confirmations by Jan 2nd. [email](mailto:contact@abbeywoodirregulars.uk)
 >
