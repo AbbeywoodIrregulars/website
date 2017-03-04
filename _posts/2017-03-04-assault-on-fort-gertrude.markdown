@@ -4,7 +4,7 @@ title: "Photos and write-up: The Assault on Fort Gertrude"
 date: "2017-03-04"
 ---
 
-Toby Whitty has kindly provided a write up of the other game that took place at February's big game day.
+Chris Tuck has kindly provided a write up of the game he and Toby Whitty played at February's big game day. 
 
 > ### The Assault on Fort Gertrude
 >
